@@ -1,1 +1,1 @@
-# Digit-classification-using-SVM-algorithm
+# Digit-classification-using-SVM-algorithm.
